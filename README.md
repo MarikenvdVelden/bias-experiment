@@ -16,7 +16,7 @@ The following data files might be of interest:
 See the scripts in [src/data-processing](src/data-processing/prep_data.md) for details on how these files were constructed.
 
 ## Results
-* [Experiment](src/analysis/analyses.md) Demonstrates the analyses to test and visualise potential annotator bias based on political ideology and political knowledge as pre-registered as well as include exploratory results.
+* [Experiment](src/analysis/Analysis.md) Demonstrates the analyses to test and visualise potential annotator bias based on political ideology and political knowledge as pre-registered as well as include exploratory results.
 
 ## Code of Conduct
 Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
